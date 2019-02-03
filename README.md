@@ -15,7 +15,7 @@ Java 8
 How to run?
 -----------------
 
-Right click on the class and click Run 'SimpleDB.main()'
+Open the project in any IDE (IntelliJ or Eclipse), right click on the class SimpleDB.java and click Run 'SimpleDB.main()'
 
 
 Output
